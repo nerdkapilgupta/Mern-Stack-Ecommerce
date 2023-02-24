@@ -1,0 +1,26 @@
+{
+  "name": "mern-stack-ecommerce",
+  "version": "1.0.0",
+  "description": "simple mern stack application using nodejs mongo react",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react.js",
+    "mongodb",
+    "express",
+    "js",
+    "node.js",
+    "javscript",
+    "mern",
+    "full_stack"
+  ],
+  "author": "kapil gupta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0"
+  }
+}
